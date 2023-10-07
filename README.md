@@ -4,7 +4,7 @@ Ini adalah repositori yang berisi catatan perkuliahan untuk mata kuliah Basis Da
 
 ## Daftar Isi
 
-- [Week 1](#introduction-to-Database)
+- [Week 1 - Introduction To Database](#introduction-to-Database)
 - [Week 2](#)
 - [Week 3](#)
 - [Week 4](#)
