@@ -35,7 +35,6 @@
 
 
 ### 📍 Reference
-
-#[medium](https://www.oracle.com/in/database/what-is-database/)
-#[medium](https://medium.com/@rifamartin/system-basis-data-persiapan-awal-89239616ee78)
+1. [web](https://www.oracle.com/in/database/what-is-database/)
+2. [medium](https://medium.com/@rifamartin/system-basis-data-persiapan-awal-89239616ee78)
 
