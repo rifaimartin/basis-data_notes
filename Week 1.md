@@ -33,3 +33,8 @@
 - _Catatan Tambahan_
   1. Mysql Server & Apache need active status, untuk melakukan connection ke database
 
+
+### 📍 Reference
+[web]([https://github.com/](https://www.oracle.com/in/database/what-is-database/)https://www.oracle.com/in/database/what-is-database/)
+[medium](https://medium.com/@rifamartin/system-basis-data-persiapan-awal-89239616ee78)
+
